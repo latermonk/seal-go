@@ -1,0 +1,16 @@
+{
+  "name": "inv-srv",
+  "host": "192.168.0.103",
+  "tags":["imooc", "bobby", "goods", "srv"],
+  "mysql": {
+    "host": "192.168.0.104",
+    "port": 3306,
+    "user": "root",
+    "password": "root",
+    "db": "mxshop_inventory_srv"
+  },
+  "consul": {
+    "host": "192.168.0.104",
+    "port": 8500
+  }
+}

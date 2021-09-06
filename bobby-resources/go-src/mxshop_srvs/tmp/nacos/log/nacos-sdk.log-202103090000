@@ -1,0 +1,11 @@
+2021-03-09T00:00:00.587+0800	[31mERROR[0m	api</v1/cs/configs>,method:<GET>, params:<{"dataId":"userop_srv.json","group":"dev","tenant":"3d6a2af2-3f81-4819-815b-bb375034092b"}>, call domain error:<[404] config data not exist
+> , result:<config data not exist
+>
+2021-03-09T00:00:00.593+0800	[31mERROR[0m	api</v1/cs/configs>,method:<GET>, params:<{"dataId":"userop_srv.json","group":"dev","tenant":"3d6a2af2-3f81-4819-815b-bb375034092b"}>, call domain error:<[404] config data not exist
+> , result:<config data not exist
+>
+2021-03-09T00:00:00.597+0800	[31mERROR[0m	api</v1/cs/configs>,method:<GET>, params:<{"dataId":"userop_srv.json","group":"dev","tenant":"3d6a2af2-3f81-4819-815b-bb375034092b"}>, call domain error:<[404] config data not exist
+> , result:<config data not exist
+>
+2021-03-09T00:00:00.597+0800	[34mINFO[0m	get config from server error:[404] config data not exist
+ 

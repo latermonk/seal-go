@@ -1,0 +1,20 @@
+{
+  "name": "oss-web",
+  "host": "192.168.0.103",
+  "tags":["mxshop", "imooc", "bobby", "oss", "web"],
+  "port": 8029,
+  "oss":{
+    "key":"LTAI4FzVU3GMnFDof6xZHSbd",
+    "secrect":"DP7mDPQGy9JHfZnwYdUhDuy3Q4pm87",
+    "host":"http://mxshop-files.oss-cn-hangzhou.aliyuncs.com",
+    "callback_url":"http://q7qwax2vy3.52http.net/oss/v1/oss/callback",
+    "upload_dir":"mxshop-images/"
+  },
+  "jwt": {
+    "key": "5$!UEmvB#nRB@Iwab#Sy!zofKEOGLRtE"
+  },
+  "consul": {
+    "host": "192.168.0.104",
+    "port": 8500
+  }
+}
